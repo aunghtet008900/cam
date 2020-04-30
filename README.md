@@ -13,4 +13,4 @@ subscribe lah cok cok
 </ul>
 <br />
 <br />
-<img src="https://github.com/SansBae/cam//blob/master/" />
+<img src="https://github.com/SansBae/cam/Screenshot_2020-04-30-12-43-33-01[1].png/blob/master/" />
